@@ -1,4 +1,4 @@
-# Led-control-using-Arduino
+# EXP-01 Led control using Arduino
 #### Name: SABARI AKASH A
 #### Register no: 212222230124
 ## AIM
