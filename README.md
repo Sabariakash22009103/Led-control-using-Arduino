@@ -86,9 +86,9 @@ void loop() {
 ```
 ## OUTPUT
 
-<img src="image-1-1.png" width="500" height="500">
+<img src="image-1-1.png" width="500" height="450">
 
-<img src="output.png" width="500" height="500">
+<img src="output.png" width="500" height="450">
 
 ## RESULT
 Thus the program executed successfully!
