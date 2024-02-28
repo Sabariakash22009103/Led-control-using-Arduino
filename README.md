@@ -1,5 +1,6 @@
 # Led-control-using-Arduino
-
+#### Name: SABARI AKASH A
+#### Register no: 212222230124
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
@@ -58,7 +59,8 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img src="image.png" width='400' height='250'>
+<img src="image.png" width='400' height='300'>
+
 ## PROGRAM
 ```C
 const int buttonPin = 2;    // the number of the pushbutton pin
@@ -81,12 +83,12 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
-
+```
 ## OUTPUT
 
-<img src="image-1-1.png" width="400" height="200">
+<img src="image-1-1.png" width="500" height="500">
 
-<img src="output.png" width="400" height="250">
+<img src="output.png" width="500" height="500">
 
 ## RESULT
 Thus the program executed successfully!
