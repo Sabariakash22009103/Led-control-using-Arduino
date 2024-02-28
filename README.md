@@ -58,9 +58,35 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-
+<img src="image.png" width='400' height='250'>
 ## PROGRAM
+```C
+const int buttonPin = 2;    // the number of the pushbutton pin
+const int ledPin = 13;
+
+int buttonState = 0;
+
+void setup() {
+  pinMode(ledPin,OUTPUT);
+  pinMode(buttonPin,INPUT);
+
+}
+
+void loop() {
+ buttonState= digitalRead(buttonPin);
+  if(buttonState == HIGH){
+     digitalWrite(ledPin, HIGH);
+  }
+  else{
+    digitalWrite(ledPin, LOW);
+  }
+}
 
 ## OUTPUT
 
+<img src="image-1-1.png" width="400" height="200">
+
+<img src="output.png" width="400" height="250">
+
 ## RESULT
+Thus the program executed successfully!
