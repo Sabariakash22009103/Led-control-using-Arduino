@@ -59,7 +59,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img src="image.png" width='500' height='450'>
+<img src="image.png" width='500' height='400'>
 
 ## PROGRAM
 ```C
